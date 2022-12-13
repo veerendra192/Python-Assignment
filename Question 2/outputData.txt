@@ -1,1 +1,1 @@
-cars info:  {'Benz': 'black'}
+cars info:  {'benz': 'black', 'kia': 'black', 'audi': 'black'}
